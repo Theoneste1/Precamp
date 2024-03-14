@@ -1,1 +1,12 @@
-done
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+*.session
+
+.env
+
+data/channels.json
+data/progress/*
+!data/progress/blank.json
